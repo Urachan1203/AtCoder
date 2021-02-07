@@ -17,14 +17,3 @@ void perm(int n){
 
         return;
 }
-
-//*********************************
-/*int main(){
-        perm(5);
-        for(int i=0; i<120; i++) {
-                for(int j=0; j<5; j++) {
-                        cout<<permutation.at(i).at(j);
-                }
-                cout<<endl;
-        }
-   }*/
