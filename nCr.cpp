@@ -1,5 +1,4 @@
 //nCr.mod(10e9+7)の値を返す
-//todo:動作テスト
 #include <iostream>
 using namespace std;
 
